@@ -3,8 +3,6 @@ import time
 import os
 import datetime
 
-# ページ、スクリーンショットのスクショ範囲を設定する。
-# スクショ範囲は環境によって異なるので自分で探す必要あり。
 
 # ページ数
 page = 5
