@@ -17,7 +17,7 @@ pip install datetime
 
 保存しておきたいKindle本を選び、フルスクリーンで１ページ目を開いておきましょう。
 
-次に、`save_kindle_screen.py`ファイルの上の方にある、
+次に、`save_kindle_book.py`ファイルの上の方にある、
 
 ```py
 page = 5
@@ -28,7 +28,7 @@ page = 5
 設定し終えたら、ターミナル上で実行しましょう。
 
 ```
-python save_kindle_screen.py
+python save_kindle_book.py
 ```
 
 実行したら、５秒以内にKindle本を開いた画面に移動し、後はそのまま放置です。
