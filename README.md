@@ -5,6 +5,12 @@ MacにおけるKindleAppの、全ページの画面のスクリーンショッ�
 
 ## 使用方法
 
+プログラムをインストールしましょう。
+
+```
+git clone https://github.com/yassyyuki/save_kindle_book.git
+```
+
 使用するライブラリーが実行環境にない方は以下のようにしてライブラリをインストールしましょう。
 
 ```
